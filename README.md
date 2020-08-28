@@ -40,21 +40,21 @@ Second priority is doing translations for some mods listed in ["Recommended Opti
 **[LambdAurora](https://github.com/LambdAurora)'s mods（[LambdAurora](https://github.com/LambdAurora)的Mod）**
 - LambdaControls ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lambdacontrols) | [Github](https://github.com/LambdAurora/LambdaControls) )
 - AuroraKeystrokes ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/aurorakeystrokes) | [Github](https://github.com/LambdAurora/AuroraKeystrokes) )
-- LambdaBetterGrass ( [CurseForge (not ready)](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) | [Github](https://github.com/LambdAurora/LambdaBetterGrass) )
-- LambdaFoxes ( [CurseForge (not ready)](https://www.curseforge.com/minecraft/mc-mods/lambdafoxes) | [Github](https://github.com/LambdAurora/LambdaFoxes) )
+- LambdaBetterGrass ( [~CurseForge~](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) | [Github](https://github.com/LambdAurora/LambdaBetterGrass) )
+- LambdaFoxes ( [~CurseForge~](https://www.curseforge.com/minecraft/mc-mods/lambdafoxes) | [Github](https://github.com/LambdAurora/LambdaFoxes) )
 
 **[Mods in OptiFine alternative list](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754)（OptiFine替代品列表中的Mod）**
 - Colormatic ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/colormatic) | [Github](https://github.com/kvverti/colormatic) )
 - Soaring Clouds ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/soaring-clouds) | [Github](https://github.com/Draylar/soaring-clouds) )
 - Dark Loading Screen ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen) | [Github](https://github.com/A5b84/dark-loading-screen) )
-- ~Raised Clouds ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/raised-clouds) | [Github](https://github.com/haykam821/Raised-Clouds) )~ Waiting for merging my pr.
+- ~Raised Clouds~ ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/raised-clouds) | [Github](https://github.com/haykam821/Raised-Clouds) ) Waiting for merging my pr.
 
 **Other mods（其他Mod）**
 - ~Fabric Furnaces ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-furnaces) | [Github](https://github.com/Draylar/fabric-furnaces) )~ Waiting for merging my pr.
 - [Fabric] Iron Chests ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-chests-fabric) | [Github](https://github.com/TechnoVisionDev/IronChest) )
 - ~Mod Menu ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modmenu) | [Github](https://github.com/Prospector/ModMenu) )~ Waiting for merging my pr.
-- ~Cotton Resources ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cotton-resources) | [Github](https://github.com/CottonMC/CottonResources) )~ Waiting for merging my pr.
+- ~Cotton Resources~ ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cotton-resources) | [Github](https://github.com/CottonMC/CottonResources) ) Waiting for merging my pr.
 - Tooltip Tool Tips ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tooltip-tool-tips) | [Github](https://github.com/Shnupbups/tooltip-tool-tips) )
 
 ## 其他：
-待更新
+待更新：Github上的其他高版本Fabric Mod简中译者。请多去他们那里看看
