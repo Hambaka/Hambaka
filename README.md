@@ -57,4 +57,9 @@ Second priority is doing translations for some mods listed in ["Recommended Opti
 - Tooltip Tool Tips ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tooltip-tool-tips) | [Github](https://github.com/Shnupbups/tooltip-tool-tips) )
 
 ## 其他：
-待更新：Github上的其他高版本Fabric Mod简中译者。请多去他们那里看看
+**高版本Fabric Mod简中译者：**
+- [**qsefthuopq**](https://github.com/qsefthuopq)：活跃中，翻译质量好，数量多，围绕AOF系列模组包出现的Mod进行集中翻译。
+- [**Samekichi**](https://github.com/Samekichi)：活跃中，基本上新出的Fabric Mod都被涵盖，质量也很好，数量多。
+- 请多关注上述译者。
+
+待更新：其他简中译者
