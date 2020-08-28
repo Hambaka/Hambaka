@@ -50,9 +50,9 @@ Second priority is doing translations for some mods listed in ["Recommended Opti
 - ~Raised Clouds~ ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/raised-clouds) | [Github](https://github.com/haykam821/Raised-Clouds) ) Waiting for merging my pr.
 
 **Other mods（其他Mod）**
-- ~Fabric Furnaces ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-furnaces) | [Github](https://github.com/Draylar/fabric-furnaces) )~ Waiting for merging my pr.
+- ~Fabric Furnaces~ ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-furnaces) | [Github](https://github.com/Draylar/fabric-furnaces) ) Waiting for merging my pr.
 - [Fabric] Iron Chests ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-chests-fabric) | [Github](https://github.com/TechnoVisionDev/IronChest) )
-- ~Mod Menu ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modmenu) | [Github](https://github.com/Prospector/ModMenu) )~ Waiting for merging my pr.
+- ~Mod Menu~ ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modmenu) | [Github](https://github.com/Prospector/ModMenu) ) Waiting for merging my pr.
 - ~Cotton Resources~ ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cotton-resources) | [Github](https://github.com/CottonMC/CottonResources) ) Waiting for merging my pr.
 - Tooltip Tool Tips ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tooltip-tool-tips) | [Github](https://github.com/Shnupbups/tooltip-tool-tips) )
 
