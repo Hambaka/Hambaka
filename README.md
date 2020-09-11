@@ -40,7 +40,7 @@ Second priority is doing translations for some mods listed in ["Recommended Opti
 **[LambdAurora](https://github.com/LambdAurora)'s mods（[LambdAurora](https://github.com/LambdAurora)的Mod）**
 - LambdaControls ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lambdacontrols) | [Github](https://github.com/LambdAurora/LambdaControls) )
 - AuroraKeystrokes ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/aurorakeystrokes) | [Github](https://github.com/LambdAurora/AuroraKeystrokes) )
-- LambdaBetterGrass ( [~CurseForge~](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) | [Github](https://github.com/LambdAurora/LambdaBetterGrass) )
+- LambdaBetterGrass ( [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) | [Github](https://github.com/LambdAurora/LambdaBetterGrass) )
 - LambdaFoxes ( [~CurseForge~](https://www.curseforge.com/minecraft/mc-mods/lambdafoxes) | [Github](https://github.com/LambdAurora/LambdaFoxes) )
 
 **[Mods in OptiFine alternative list](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754)（OptiFine替代品列表中的Mod）**
